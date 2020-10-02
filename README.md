@@ -1,4 +1,9 @@
-### Hi there 👋
+<a href="https://github.com/mountain1009/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mountain1009&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/mountain1009/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mountain1009" />
+</a>
 
 <!--
 **mountain1009/mountain1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
