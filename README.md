@@ -1,11 +1,11 @@
-<a href="https://github.com/mountain1009/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mountain1009&count_private=true&show_icons=true&theme=dracula" />
-</a>
 <a href="https://github.com/mountain1009/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/mountain1009/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=mountain1009&column=7&theme=gruvbox&no-frame=true"/>
 </a>
 
+<a href="https://github.com/mountain1009/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mountain1009&count_private=true&show_icons=true&theme=dracula" />
+</a>
 
 
 <!--
